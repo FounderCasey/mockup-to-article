@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1: I have learned about the <hr> element. I didn't know that it was that easy to set up a simple and clean divider.
+
+2: The whole project was pretty easy, I enjoyed recreating everything.
+
+3: The most difficult part was definitely trying to eyeball the correct styles.
+
+4: I was unsure how to create the horizontal line at the bottom, so I referred to the classroom and it tipped me off to search for "html horizontal rule" and it was just that easy.
